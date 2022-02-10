@@ -1,4 +1,4 @@
-# module-as-code-tf
+## Description of the purpose of this repository
 
 This is just code that can be used as a Terraform module and it has been created only for learning purposes 
 
@@ -8,7 +8,7 @@ More information about how Modules work and how a standard module structure look
 
 https://www.terraform.io/language/modules
 
-## Tutorials about Terrafor Modules
+## Tutorials about Terraform Modules
 
 Please check our learning platform for more tutorials with Terraform Modules:
 
