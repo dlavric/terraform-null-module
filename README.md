@@ -1,2 +1,3 @@
 # module-as-code-tf
-This is a code that can be used as a Terraform module
+This is just code that can be used as a Terraform module and it has been created only for learning purposes 
+
