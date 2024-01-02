@@ -21,7 +21,7 @@ Create a 'main.tf' file and reference this repository as a module:
 
 ```shell
 module "mymodule" {
-    source = "git@github.com:dlavric/module-as-code-tf.git"
+    source = "git@github.com:dlavric/terraform-null-module.git"
 }
 ```
 
