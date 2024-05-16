@@ -1,5 +1,5 @@
 variable "myvar" {
-  default        = 2
+  default        = 1
   description = "The id of the variable"
 }
 
